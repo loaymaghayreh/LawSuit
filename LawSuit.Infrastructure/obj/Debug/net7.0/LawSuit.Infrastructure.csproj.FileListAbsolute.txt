@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Infrastructure.deps.json
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Infrastructure.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Infrastructure.pdb
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Domain.dll
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\bin\Debug\net7.0\LawSuit.Domain.pdb
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\refint\LawSuit.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.pdb
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\LawSuit.Infrastructure.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Loay Folder\LawSuit\LawSuit\LawSuit.Infrastructure\obj\Debug\net7.0\ref\LawSuit.Infrastructure.dll
